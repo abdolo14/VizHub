@@ -1,4 +1,5 @@
 Flask>=2.0
 python-dotenv>=0.15
 requests>=2.25
-# PyGithub>=1.55 # Optional: if we decide to use this wrapper later
+psycopg2-binary>=2.9 # For PostgreSQL
+
